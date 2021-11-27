@@ -4,4 +4,4 @@
 
 Algoritmo para encontrar boas jogadas.
 
-![GitHub Logo](/gif/Tic_Tac_Toe_Demo)
+![GitHub Logo](/gif/Tic_Tac_Toe_Demo.gir)
